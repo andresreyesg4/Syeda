@@ -24,13 +24,13 @@ method and class in further detail.
 
 ## Completed Classes and Interfaces (Completed by Instructors)
 1. **The plate Class (Plate.java)** 
-    a. This class creates plates with letters. 
+    This class creates plates with letters. 
 1. **The Stack Interface (Stack.java)** 
-    a. This interface outlines the required methods for the Bin class.
+    This interface outlines the required methods for the Bin class.
 1. **The Queue Interface (Queue.java)** 
-    a. This interface outlines the required methods for the Air class.
+    This interface outlines the required methods for the Air class.
 1. **The Simulate Class(Simulate.java)** 
-    a. This class is used to simulate Syeda's movements done in ASCII. 
+    This class is used to simulate Syeda's movements done in ASCII. 
 
 ## Required Classes completed by Me
 1. **The AttachedList<T> Class (AttachedList.java)** 
