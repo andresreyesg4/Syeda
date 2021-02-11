@@ -8,7 +8,7 @@ can hold any number of items. The air will be modeled as a queue data structure 
 of items. This project was completed in my Data Structures class with Professor Rusell.
 
 # Syeda
-![image of syeda](/Desktop/Syeda.png)
+![image of syeda](Syeda/Syeda.png)
 There are five plates in the picture above: 2 in the air, 1 in the bin, and 1 in each of Syeda's hands. 
 The bin is a stack, new plates are placed on top and plates are taken off the top. The air is a queue, the 
 front of the queue in this plate (b) and the back is plate (c). Plates are thrown into the back of the queue
