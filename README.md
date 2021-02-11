@@ -33,4 +33,14 @@ method and class in further detail.
     This class is used to simulate Syeda's movements done in ASCII. 
 
 ## Required Classes completed by Me
-1. **The AttachedList<T> Class (AttachedList.java)** 
+1. **The AttachedList<T> Class (AttachedList.java)** This class is a linked list. It implements Java's List Inerface as outlined in the class, there are also some extra methods which are slice(), reversecopy(), pack(), and flat'ten()
+    Note: Not all the methods in this class are need for the simulation of Syeda. 
+    
+1. **The Bin Class (Bin.java)** This class implements the interface Stack<Plate>. It keeps an AttachedList
+    to use as its internal storage.
+    
+1. **The Air Class (Air.java)** This class implements the interface Queue<plate>. It keeps an AttachedList to use its internal storage.
+    
+1. **The Hand Class (Hand.java)** This class can store a single item (a plate).
+
+1. **The Spinner Class (Spinner.java)** This class does handoff between the bin, the air, and Syed's hands.
