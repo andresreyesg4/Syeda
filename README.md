@@ -46,4 +46,10 @@ method and class in further detail.
 1. **The Spinner Class (Spinner.java)** This class does handoff between the bin, the air, and Syed's hands.
 
 ## Sample Run
+![Sample Run 1](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun1.png)
+![Sample Run 2](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun2.png)
+![Sample Run 3](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun3.png)
+![Sample Run 4](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun4.png)
+![Sample Run 5](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun5.png)
+![Sample Run 6](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun6.png)
 
