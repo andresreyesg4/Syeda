@@ -1,23 +1,23 @@
 # Syeda
 
-# Overview: What goes up must go down
+## Overview: What goes up must go down
 Syeda is a small game built on Java using linked lists. Syeda is a plate spinner who is using three data 
 structures to spin plates (her hands, a bin, and the air). her hands will be modeled with a simple data 
 structure that holds a signle plate at a time. The bin will be modeled as a stack data structure which 
 can hold any number of items. The air will be modeled as a queue data structure which can hold a specific number
 of items. This project was completed in my Data Structures class with Professor Rusell.
 
-# Syeda
+## Syeda
 ![image of syeda](https://github.com/andresreyesg4/Syeda/blob/main/Syeda.png)
 There are five plates in the picture above: 2 in the air, 1 in the bin, and 1 in each of Syeda's hands. 
 The bin is a stack, new plates are placed on top and plates are taken off the top. The air is a queue, the 
 front of the queue in this plate (b) and the back is plate (c). Plates are thrown into the back of the queue
 and taken out of the front of the queue. This produces what is known as the "shower trick" in juggling. 
 
-# Input Formats
+## Input Formats
 No file I/O is required for this Project. 
 
-# Implementation
+## Implementation
 This project will be built using a number of classes representing the component peices of the project. 
 Here I provide a description of these classes. Each class has comments explaining the functionality of each 
 method and class in further detail.
@@ -44,3 +44,6 @@ method and class in further detail.
 1. **The Hand Class (Hand.java)** This class can store a single item (a plate).
 
 1. **The Spinner Class (Spinner.java)** This class does handoff between the bin, the air, and Syed's hands.
+
+## Sample Run
+
