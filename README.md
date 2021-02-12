@@ -35,6 +35,9 @@ method and class in further detail.
 ## Required Classes completed by Me
 1. **The AttachedList<T> Class (AttachedList.java)** This class is a linked list. It implements Java's List Inerface as outlined in the class, there are also some extra methods which are slice(), reversecopy(), pack(), and flat'ten()
     Note: Not all the methods in this class are need for the simulation of Syeda. 
+    1. slice():
+        This method takes a linked list and cuts a piece off, and returns the rest. For example if we had a Linked list as A->B->C->D->E, and we want to slice B,C & D. 
+        Then the method would remove the B, C & D and return what is left of the Linked list which would be A->E. 
     
 1. **The Bin Class (Bin.java)** This class implements the interface Stack<Plate>. It keeps an AttachedList
     to use as its internal storage.
