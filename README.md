@@ -38,7 +38,8 @@ method and class in further detail.
     1. slice(start, finish):
         This method takes two input parameters which are the starting index and the finish index. The method iterates through the AttachedList until it reaches the starting
         index and begins to remove until it reaches the finish index (inclusive). The elements that are removed are saved into a new AttachedList and are returned. For 
-        example if the AttachedList had 
+        example if the AttachedList had elements A->B->C->D->E, and we were to cut off slice(1,3). The method would return the elements B->C->D, and the original AttachedList
+        would end up with A->E.
     
 1. **The Bin Class (Bin.java)** This class implements the interface Stack<Plate>. It keeps an AttachedList
     to use as its internal storage.
