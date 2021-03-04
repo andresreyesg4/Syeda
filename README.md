@@ -41,14 +41,14 @@ method and class in further detail.
         example if the AttachedList had elements A->B->C->D->E, and we were to cut off slice(1,3). The method would return the elements B->C->D, and the original AttachedList
         would end up with A->E.
     
-1. **The Bin Class (Bin.java)** This class implements the interface Stack<Plate>. It keeps an AttachedList
+1. **The Bin Class (Bin.java)** <br/> This class implements the interface Stack<Plate>. It keeps an AttachedList
     to use as its internal storage.
     
-1. **The Air Class (Air.java)** This class implements the interface Queue<plate>. It keeps an AttachedList to use its internal storage.
+1. **The Air Class (Air.java)** <br/> This class implements the interface Queue<plate>. It keeps an AttachedList to use its internal storage.
     
-1. **The Hand Class (Hand.java)** This class can store a single item (a plate).
+1. **The Hand Class (Hand.java)** <br/> This class can store a single item (a plate).
 
-1. **The Spinner Class (Spinner.java)** This class does handoff between the bin, the air, and Syed's hands.
+1. **The Spinner Class (Spinner.java)** <br/> This class does handoff between the bin, the air, and Syed's hands.
 
 ## Sample Run
 1. ![Sample Run 1](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun1.png)
