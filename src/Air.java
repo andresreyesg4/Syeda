@@ -102,8 +102,6 @@ public class Air implements Queue<Plate> {
 		for(int i = 0; i <= 13; i++){
 			air.enqueue(new Plate(i));
 		}
-		//air.enqueue(new Plate(1));
-		//air.internalList.add(new Plate(2));
 		System.out.println(air.internalList.toString());
 		System.out.println(air.toString());
 
