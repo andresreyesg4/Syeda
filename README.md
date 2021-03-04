@@ -46,9 +46,9 @@ method and class in further detail.
     
 1. **The Air Class (Air.java)** <br/> This class implements the interface Queue<plate>. It keeps an AttachedList to use its internal storage.
     
-1. **The Hand Class (Hand.java)** This class can store a single item (a plate).
+1. **The Hand Class (Hand.java)** <br/> This class can store a single item (a plate).
 
-1. **The Spinner Class (Spinner.java)** This class does handoff between the bin, the air, and Syed's hands.
+1. **The Spinner Class (Spinner.java)** <br/> This class does handoff between the bin, the air, and Syed's hands.
 
 ## Sample Run
 1. ![Sample Run 1](https://github.com/andresreyesg4/Syeda/blob/main/SampleRun1.png)
